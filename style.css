@@ -1,3 +1,46 @@
-.AboutMeDescription{
-    color:green
-}
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+    @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500&display=swap');
+
+ body {
+      background-color: #282F44;
+    }
+
+    h1 {
+      color: #0aff70;
+    text-align: center;
+      font-family: 'Chakra Petch', sans-serif;
+      padding: 10px;
+    }
+
+    p {
+      color: #E1F2FE;
+      font-family: 'Quicksand', sans-serif;#B2B1CF
+       }
+
+    img {
+      float: right;
+      width: 325px;
+      height: 400px;
+      margin: 50px 50px 50px 50px;
+      border: solid #98D2EB 5px ;
+      border-radius: 50px;
+    }
+
+    h2{
+        color: #21bcff;
+      font-family: 'Chakra Petch', sans-serif;
+      padding: 10px;
+    }
+
+    .pageLinks{
+        color: #21bcff;
+        text-align: center;
+      border-style: dashed;
+      border-radius: 100px;
+      padding: 10px;
+
+    }
+
+    
+
