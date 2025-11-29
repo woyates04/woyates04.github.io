@@ -31,6 +31,7 @@
         color: #21bcff;
       font-family: 'Chakra Petch', sans-serif;
       padding: 10px;
+      text-align: center;
     }
 
     .pageLinks{
@@ -39,7 +40,18 @@
       border-style: dashed;
       border-radius: 100px;
       padding: 10px;
+      background-color: #7df4fc;
 
+    }
+    .SkillList{
+      font-family: 'Chakra Petch', sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color:#7df4fc
+      padding: 5px;
+      color:#ccebf8
+    
     }
 
     
