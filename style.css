@@ -101,11 +101,27 @@
 
   .MapScreenshot img{
     float: left;
-    width: 300px;
+    width: 350px;
     height: 200px;
     margin: 10px 10px 10px 10px;
     border: solid #98D2EB 5px ;
     border-radius: 10px;
   }
+  .upgrades_ScreenShot img{
+    float: left;
+    width: 350px;
+    height: 200px;
+    margin: 10px 10px 10px 10px;
+    border: solid #98D2EB 5px ;
+    border-radius: 10px;
+  }
+
+  .Upgrade_Descriptions_Screenshot img{
+    float: left;
+    width: 300px;
+    height: 300px;
+    margin: 10px 10px 10px 10px;
+    border: solid #98D2EB 5px ;
+    border-radius: 10px;
   }
 
