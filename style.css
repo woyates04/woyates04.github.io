@@ -104,7 +104,7 @@
   .MapScreenshot img{
     float: left;
     width: 400px;
-    height: 300px;
+    height: 250px;
     margin: 10px 10px 10px 10px;
     border: solid #98D2EB 5px ;
     border-radius: 10px;
@@ -112,7 +112,7 @@
   .UpgradesScreenShot img{
     float: left;
     width: 400px;
-    height: 300px;
+    height: 250px;
     margin: 10px 10px 10px 10px;
     border: solid #98D2EB 5px ;
     border-radius: 10px;
@@ -120,8 +120,8 @@
 
   .DescriptionsScreenshot img{
     float: left;
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     margin: 10px 10px 10px 10px;
     border: solid #98D2EB 5px ;
     border-radius: 10px;
