@@ -71,6 +71,7 @@
 
   .Reconnection{
     text-align: left;
+    text-justify:left;
     font-family: 'Chakra Petch', sans-serif;
     color:#7df4fc;
   }
@@ -95,6 +96,7 @@
 
   .Fearosis{
     text-align: right;
+    text-justify: right;
     font-family: 'Chakra Petch', sans-serif;
     color:#7df4fc;
   }
