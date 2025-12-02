@@ -107,7 +107,7 @@
     border: solid #98D2EB 5px ;
     border-radius: 10px;
   }
-  .Upgrades_ScreenShot img{
+  .UpgradesScreenShot img{
     float: left;
     width: 350px;
     height: 200px;
@@ -116,7 +116,7 @@
     border-radius: 10px;
   }
 
-  .Descriptions_Screenshot img{
+  .DescriptionsScreenshot img{
     float: left;
     width: 200px;
     height: 200px;
