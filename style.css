@@ -18,7 +18,7 @@
       font-family: 'Quicksand', sans-serif;#B2B1CF
        }
 
-    img {
+    img{
       float: right;
       width: 325px;
       height: 400px;
@@ -62,5 +62,16 @@
     padding: 50px;
     border-color:#0aff70;
 
+  }
+
+  h3{
+    color:#21bcff;
+    font-family: 'Chakra Petch', sans-serif;
+  }
+
+  .Reconnection{
+    text-align: left;
+    font-family: 'Chakra Petch', sans-serif;
+    color:#7df4fc;
   }
 
