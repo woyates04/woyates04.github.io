@@ -109,7 +109,7 @@
   }
   .UpgradesScreenShot img{
     float: left;
-    width: 450px;
+    width: 400px;
     height: 300px;
     margin: 10px 10px 10px 10px;
     border: solid #98D2EB 5px ;
@@ -118,8 +118,8 @@
 
   .DescriptionsScreenshot img{
     float: left;
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
     margin: 10px 10px 10px 10px;
     border: solid #98D2EB 5px ;
     border-radius: 10px;
