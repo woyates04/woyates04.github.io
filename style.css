@@ -47,8 +47,8 @@
       list-style-type: disc;
       font-family: 'Chakra Petch', sans-serif;
       display: flex;
-      justify-content: left;
-      align-items: left;
+      justify-content: center;
+      align-items: center;
       color:#7df4fc;
       padding: 5px;
       color:#ccebf8;
