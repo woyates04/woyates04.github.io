@@ -74,11 +74,10 @@
     text-justify:left;
     font-family: 'Chakra Petch', sans-serif;
     color:#7df4fc;
-    width: 800px;
   }
 
   .Combat_Scene_ScreenShot img{
-    float: right;
+    justify: center;
     width: 450px;
     height: 200px;
     margin: 10px 10px 10px 10px;
@@ -87,7 +86,7 @@
   }
 
   .Dialogue_Widget_Screenshot img{
-    float: right;
+    justify: center;
     width: 400px;
     height: 300px;
     margin: 10px 10px 10px 10px;
@@ -100,12 +99,11 @@
     text-justify: left;
     font-family: 'Chakra Petch', sans-serif;
     color:#7df4fc;
-    width: 800px;
+
   }
 
   .MapScreenshot img{
-    float: center;
-    justify: center;
+    justify-content: center;
     width: 400px;
     height: 250px;
     margin: 10px 10px 10px 10px;
@@ -113,8 +111,7 @@
     border-radius: 10px;
   }
   .UpgradesScreenShot img{
-    float: center;
-    justify: center;
+    justify-content: center;
     width: 400px;
     height: 250px;
     margin: 10px 10px 10px 10px;
@@ -123,8 +120,7 @@
   }
 
   .DescriptionsScreenshot img{
-    float: center;
-    justify: center;
+    justify-content: center;
     width: 300px;
     height: 300px;
     margin: 10px 10px 10px 10px;
