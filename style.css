@@ -74,6 +74,7 @@
     text-justify:left;
     font-family: 'Chakra Petch', sans-serif;
     color:#7df4fc;
+    width: 1000px;
   }
 
   .Combat_Scene_ScreenShot img{
@@ -95,15 +96,16 @@
   }
 
   .Fearosis{
-    text-align: right;
-    text-justify: right;
+    text-align: left;
+    text-justify: left;
     font-family: 'Chakra Petch', sans-serif;
     color:#7df4fc;
+    width: 1000px;
   }
 
   .MapScreenshot img{
-    float: left;
-    justify: left;
+    float: right;
+    justify: right;
     width: 400px;
     height: 250px;
     margin: 10px 10px 10px 10px;
@@ -111,8 +113,8 @@
     border-radius: 10px;
   }
   .UpgradesScreenShot img{
-    float: left;
-    justify: left;
+    float: right;
+    justify: right;
     width: 400px;
     height: 250px;
     margin: 10px 10px 10px 10px;
@@ -121,8 +123,8 @@
   }
 
   .DescriptionsScreenshot img{
-    float: left;
-    justify: left;
+    float: right;
+    justify: right;
     width: 300px;
     height: 300px;
     margin: 10px 10px 10px 10px;
