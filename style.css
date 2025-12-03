@@ -78,6 +78,7 @@
 
   .Combat_Scene_ScreenShot img{
     justify: center;
+    justify-content: center;
     width: 450px;
     height: 200px;
     margin: 10px 10px 10px 10px;
@@ -87,6 +88,7 @@
 
   .Dialogue_Widget_Screenshot img{
     justify: center;
+    justify-content: center;
     width: 400px;
     height: 300px;
     margin: 10px 10px 10px 10px;
