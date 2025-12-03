@@ -162,3 +162,12 @@
     font-family: 'Chakra Petch', sans-serif;
     color:#7df4fc;
   }
+
+  .CopyofBallon img{
+    float: right;
+    width: 350px;
+    height: 500px;
+    margin: 50px 50px 50px 50px;
+    border: solid #98D2EB 5px ;
+    border-radius: 10px;
+  }
