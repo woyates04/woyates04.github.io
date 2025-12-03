@@ -47,8 +47,8 @@
       list-style-type: disc;
       font-family: 'Chakra Petch', sans-serif;
       display: flex;
-      justify-content: center;
-      align-items: center;
+      justify-content: left;
+      align-items: left;
       color:#7df4fc;
       padding: 5px;
       color:#ccebf8;
@@ -59,8 +59,8 @@
       list-style-type: disc;
       font-family: 'Chakra Petch', sans-serif;
       display: flex;
-      justify-content: center;
-      align-items: center;
+      justify-content: left;
+      align-items: left;
       color:#7df4fc;
       padding: 5px;
       color:#ccebf8;
@@ -170,4 +170,11 @@
     margin: 50px 50px 50px 50px;
     border: solid #98D2EB 5px ;
     border-radius: 10px;
+  }
+
+  .skilltitle{
+    text-align: left;
+  }
+  .tooltitle{
+    text-align: left;
   }
