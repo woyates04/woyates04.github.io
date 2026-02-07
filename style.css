@@ -154,3 +154,27 @@
   .skilltitle{
     text-align: left;
   }
+
+  .IllumenHorizons{
+    text-align: left;
+    font-family: 'Chakra Petch', sans-serif;
+    color:#7df4fc;
+  }
+
+  .IllumenHorizonsScreenshot img{
+    justify-content: center;
+    width: 400px;
+    height: 250px;
+    margin: 10px 10px 10px 10px;
+    border: solid #98D2EB 5px ;
+    border-radius: 10px;
+  }
+
+  .IllumenHorizonsFirstFloor img{
+    justify-content: center;
+    width: 400px;
+    height: 250px;
+    margin: 10px 10px 10px 10px;
+    border: solid #98D2EB 5px ;
+    border-radius: 10px;
+  }
